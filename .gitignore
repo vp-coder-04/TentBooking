@@ -3,3 +3,27 @@
 # Ignore build results
 bin/
 obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows image file caches
+Thumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Uncomment if you have tasks that create project's project's directories
+#wwwroot/
